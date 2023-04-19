@@ -1,0 +1,40 @@
+.form-input {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 24px;
+}
+
+input {
+    margin-right: 32px;
+    padding: 8px;
+}
+
+button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 32px;
+}
+
+.btn {
+    border-radius: 25px;
+    padding: 12px;
+}
+
+.btn:hover{
+    font-size: 16px;
+    color: white;
+    background-color: black;
+}
+
+.btn-table{
+    display: inline-block;
+    padding: 5px;
+}
+
+.btn-table:hover {
+    background-color: black;
+    color: white;
+}
+

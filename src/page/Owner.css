@@ -1,0 +1,17 @@
+.owner {
+    display: flex;
+    justify-content: center;
+}
+
+.block-img {
+    height: 400px;
+    display: flex;
+    justify-content: center;
+}
+
+.bio {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }

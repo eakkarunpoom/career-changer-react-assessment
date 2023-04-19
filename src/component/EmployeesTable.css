@@ -1,0 +1,17 @@
+table {
+    margin-top: 32px;
+    border-collapse: collapse;
+    width: 100%; 
+}
+th, td {
+    text-align: center; 
+    padding: 6px;
+    border: 2px solid black; 
+}
+
+thead {
+    background-color: blueviolet;
+    color: white;
+    font-family:monospace;
+    font-size: 18px;
+}
