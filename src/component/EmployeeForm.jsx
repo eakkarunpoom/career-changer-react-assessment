@@ -26,6 +26,7 @@ const EmployeeForm = (props) => {
 
     return(
         <div className="form-input">
+            <h3>Create User here</h3>
             <input type="text" placeholder="Name" onChange={inputName}/>
             <input type="text" placeholder="Last Name" onChange={inputLastName}/>
             <input type="text" placeholder="Position" onChange={inputPosition}/>
